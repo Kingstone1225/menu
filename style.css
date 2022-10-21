@@ -1,0 +1,45 @@
+.menu{
+    display: none;
+}
+.content{
+  width: 500px;
+    border-radius: 30px ; 
+    background-color: aliceblue;  
+    margin-top: -250px;
+    margin-left: 450px;
+    position: absolute;
+    z-index: 1;
+}
+body{
+     
+    background-image: url(./zhumajsynba-perevod.jpg);
+     
+}
+ 
+label{
+    color: rgb(110, 110, 110);
+     
+    margin-left: 50px;
+}
+.but1{
+    margin-left: 650px;
+    cursor: pointer;
+}
+.clear{
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: 460px;
+}
+.clear:hover{
+    background-color: red;
+}
+ 
+.sendd{
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.blure2{
+    filter: blur(2px);
+    backdrop-filter: blur(2px);
+}
